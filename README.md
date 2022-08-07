@@ -4,9 +4,10 @@
 
 ![plot](./Vaishnavi_Mokadam.png)
 
-👨‍🎓I am Vaishnavi Mokadam, currently pursuing a Bachelors Degree in Information Technology Engineering. <br />
-💻I am a **Software Development** as well as **UI/UX** enthusiast. <br />
-🏆🥇I am also into **programming**. I am **5-star⭐️** coder at HackerRank.<br />
+👨‍🎓 I am Vaishnavi Mokadam, currently pursuing a Bachelors Degree in Information Technology Engineering. <br />
+💻 I am a **Software Development** as well as **UI/UX** enthusiast. <br />
+🏆🥇 I am also into **programming**. I am **5-star⭐️** coder at HackerRank.<br />
+📄 know about my experience : https://docs.google.com/document/d/1NrSpmuRF-mwXPdddhXjG_dEKInG3PM4jq2g4uInGimA/edit?usp=sharing
 📫 **Email** me at: vaishnavimokadam@gmail.com <br/>
 ⚡ **Fun Fact**:  When I am not studying I usually spend my time -“Make my brushes dance over the tune of my hand in the direction of paint". A perfect Bibliophile 📚 during my lesuire time!
 
