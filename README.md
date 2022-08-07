@@ -10,7 +10,7 @@
 📄 know about my experience at👇 <br />
 https://docs.google.com/document/d/1NrSpmuRF-mwXPdddhXjG_dEKInG3PM4jq2g4uInGimA/edit?usp=sharing <br />
 📫 **Email** me at: vaishnavimokadam@gmail.com <br/>
-⚡ **Fun Fact**:  When I am not studying I usually spend my time -“Make my brushes dance over the tune of my hand in the direction of paint". A perfect Bibliophile 📚 during my lesuire time!
+⚡ **Fun Fact**:  When I am not coding I usually spend my time -“Make my brushes dance over the tune of my hand in the direction of paint". A perfect Bibliophile 📚 during my leisure time!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi2701-mk"/>|
 
