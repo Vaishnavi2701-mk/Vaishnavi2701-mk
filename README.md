@@ -11,9 +11,6 @@
 ⚡ **Fun Fact**:  When I am not studying I usually spend my time -“Make my brushes dance over the tune of my hand in the direction of paint". A perfect Bibliophile 📚 during my lesuire time!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi2701-mk"/>|
-|---|---|
- 
- ---
 
 ## Connect with me  
 <div align="center">
