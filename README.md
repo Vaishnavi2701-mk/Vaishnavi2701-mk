@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Vaishnavi Mokadam](https://github.com/Vaishnavi2701-mk) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-![GitHub Logo]()
 
-
-![plot](./Images/Anushka.png)
+![plot](./VAISHNAVIMOKADAM-2.png)
 
 👨‍🎓I am Vaishnavi Mokadam, currently pursuing a Bachelors Degree in Information Technology Engineering. <br />
 💻I am a **Software Development** as well as **UI/UX** enthusiast. <br />
