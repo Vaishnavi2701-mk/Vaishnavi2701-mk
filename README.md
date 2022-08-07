@@ -31,7 +31,7 @@ https://docs.google.com/document/d/1NrSpmuRF-mwXPdddhXjG_dEKInG3PM4jq2g4uInGimA/
 </a>
 </div>
 
-![Snake Graph](https://github.com/Vaishnavi2701-mk/blob/master/github-user-contribution.svg)
+![Snake Graph](https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg)
 
 <!--
 **Vaishnavi2701-mk/Vaishnavi2701-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
