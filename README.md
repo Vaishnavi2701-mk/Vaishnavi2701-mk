@@ -13,7 +13,7 @@ https://docs.google.com/document/d/1NrSpmuRF-mwXPdddhXjG_dEKInG3PM4jq2g4uInGimA/
 ⚡ **Fun Fact**:  When I am not coding I usually spend my time -“Make my brushes dance over the tune of my hand in the direction of paint". A perfect Bibliophile 📚 during my leisure time!
 
 
-|[![Vaishnavi's Github Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi2701-mk&show_icons=true&theme=tokyonight)](https://github.com/Vaishnavi2701-mk/github-readme-stats) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi2701-mk"//>|
+|[![Vaishnavi's Github Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi2701-mk&show_icons=true&theme=tokyonight)](https://github.com/Vaishnavi2701-mk/github-readme-stats) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi2701-mk"/>|
  |---|---|
  
  ---
